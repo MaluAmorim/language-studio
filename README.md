@@ -15,6 +15,7 @@ Dentre todas as avaliações existentes, foram coletadas somente 4 que variam na
 Conforme arquivo input/sentencas-utilizadas.md, foram coletadas 4 sentenças. Todas as 4 foram analisadas conforme imagens abaixo:
 
 **1.**
+
 ![image](https://github.com/user-attachments/assets/56329b24-516d-4df7-84f5-6b41403d0483)
 
 Essa primeira sentença teve um Documento sentiment e Sentence sentiment 100% positivo. Foram encontrados dois Targets e o assessment mais baixo foi de 96%.
