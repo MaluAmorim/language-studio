@@ -66,4 +66,4 @@ Texto completo | Resultado final da Analise do documento
 Apesar do observado nas demais analises podemos ver que mesmo com suas falhas em identificar pontualmente algumas palavras chaves, ele é capaz não só de ideitificar assessments possitivos mas também negativos.
 
 ## Conclusão
-Mesmo com suas impefeições, deixando claro que são bem pontuais não ocorrendo frequentemente, esse é um recurso muito bom e que eu me proporia a utiliza-lo pois o mesmo consegue gerar boa analises expressando bem aquilo que o cliente esta sentindo.
+Mesmo com suas impefeições, deixando claro que são bem pontuais não ocorrendo frequentemente, esse é um recurso muito bom e que eu me proporia a utiliza-lo pois o mesmo consegue gerar boas analises expressando bem aquilo que o cliente esta sentindo.
