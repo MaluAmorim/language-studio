@@ -9,7 +9,6 @@ Como todas as lojas do velhaquinho, tem de tudo lá dentro. Vou comprar frequent
 Banheiros limpos, confortáveis.
 3. Fui em dia de semana, local limpo, organizado e tranquilo para compras.
 Os preços já achei razoavel, fazendo uma pesquisa rápida na Internet, há coisas que vc encontra com valores melhores. Mas no geral, o lugar é muito bom.
-4. Fiquei um pouco decepcionado, pois esperava preços mais agressivos. Estava curioso, pois a primeira loja que vi era em Porto VELHO em Rondônia, mas não tive tempo para conhecer. Bom estacionamento e espeço amplo na loja. Tem variedades e bons produtos. Realmente os preços e promoções nem sempre valem a pena.
-5. Essa loja fere o CDC.
+4. Essa loja fere o CDC.
 Atendimento péssimo, preço errado na etiqueta, gerente não quis solucionar o caso e descumpriu o código de defesa do consumidor dizendo que o consumidor deve verificar o código de barras.
 Total desorganização, péssima experiencia!
