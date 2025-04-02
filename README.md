@@ -14,12 +14,12 @@ Dentre todas as avaliações existentes, foram coletadas somente 4 que variam na
 
 Conforme arquivo input/sentencas-utilizadas.md, foram coletadas 4 sentenças. Todas as 4 foram analisadas conforme imagens abaixo:
 
-1.
+**1.**
 ![image](https://github.com/user-attachments/assets/56329b24-516d-4df7-84f5-6b41403d0483)
 
 Essa primeira sentença teve um Documento sentiment e Sentence sentiment 100% positivo. Foram encontrados dois Targets e o assessment mais baixo foi de 96%.
 
-*2.*
+**2.**
 Sentenças analisadas | Sentimento da sentença/Opnião
 --------- | ------
 ![image](https://github.com/user-attachments/assets/a0c4aaaf-3627-49cc-a408-33fea8357f8d) | ![image](https://github.com/user-attachments/assets/19ed5b13-8115-4129-b8de-1e881067d547)
@@ -36,7 +36,7 @@ Texto completo | Resultado final da Analise do documento
 
 Conforme esta segunda analise, foi identificado que nem sempre é obtida uma opnião para cada sentença mas é apresentado o sentimento geral dela. Creio que mesmo ele não tendo sido capaz de enxergar esses targets e assessments, nós podemos ter uma idiea de quais seriam eles. Como na 5° setença onde diz "Vou comprar frequentemente e aproveito para um lanche nas lojinhas de conveniência que tem no térreo" nós podemos deduzir que, em minha opnião, o **target** seria *comprar* e o **assessment** seria *frequentemente* onde podesse deduzir que esta é uma sentença possitiva, apesar de eu não ser capaz de informar uma porcentagem, pois o consumidor informa que voltará a fazer compras no local.
 
-3.
+**3.**
 Sentenças analisadas | Sentimento da sentença/Opnião
 --------- | ------
 ![image](https://github.com/user-attachments/assets/67075c80-df38-4c11-b240-3c033f6d548a) | ![image](https://github.com/user-attachments/assets/09b49cc7-ba3f-40ef-bb0c-ce614d6ced61)
@@ -51,7 +51,7 @@ A casos intrigantes como nesta analise onde ocorre de todos os assessments da pr
 
 Com isso podemos deduzir que o Language Studio ainda tem alguns pontos onde ele não consegue identificar certos tagets e assessments, mas mesmo com esses "furos" é uma ferramenta que consegue auxiliar e muito nas analises das avaliações e comentários dos clientes.
 
-4.
+**4.**
 Sentenças analisadas | Sentimento da sentença/Opnião
 --------- | ------
 ![image](https://github.com/user-attachments/assets/4da9dcb5-7e66-4190-b674-917bf8adef5d) | ![image](https://github.com/user-attachments/assets/8b9228c8-1049-4cff-affa-1b562fbb0a3b)
