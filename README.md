@@ -19,7 +19,7 @@ Conforme arquivo input/sentencas-utilizadas.md, foram coletadas 4 sentenças. To
 
 Essa primeira sentença teve um Documento sentiment e Sentence sentiment 100% positivo. Foram encontrados dois Targets e o assessment mais baixo foi de 96%.
 
-2.
+*2.*
 Sentenças analisadas | Sentimento da sentença/Opnião
 --------- | ------
 ![image](https://github.com/user-attachments/assets/a0c4aaaf-3627-49cc-a408-33fea8357f8d) | ![image](https://github.com/user-attachments/assets/19ed5b13-8115-4129-b8de-1e881067d547)
