@@ -19,9 +19,8 @@ Conforme arquivo input/sentencas-utilizadas.md, foram coletadas 5 sentenças. To
 
 Essa primeira sentença teve um Documento sentiment e Sentence sentiment 100% positivo. Foram encontrados dois Targets e o assessment mais baixo foi de 96%.
 
-
 2.
-Sentenças analizadas | Sentimento da sentença
+Sentenças analizadas | Sentimento da sentença/Opnião
 --------- | ------
 ![image](https://github.com/user-attachments/assets/a0c4aaaf-3627-49cc-a408-33fea8357f8d) | ![image](https://github.com/user-attachments/assets/19ed5b13-8115-4129-b8de-1e881067d547)
 ![image](https://github.com/user-attachments/assets/9a6c6602-8c30-4d05-9eec-9322136e53c6) | ![image](https://github.com/user-attachments/assets/b974356d-e605-4535-98c8-5ade7935a00b)
@@ -35,4 +34,16 @@ Texto completo | Resultado final da Analize do documento
 --------- | ------
 ![image](https://github.com/user-attachments/assets/6d876b4d-1be7-4d37-8494-5d1af0fa95d2) | ![image](https://github.com/user-attachments/assets/a86fc213-0f09-48de-bdf5-c0e339636d30)
 
-Conforme esta segunda analize, foi identificado que nem sempre é obtida uma opnião para cada sentença mas é apresentado o sentimento geral dela. Creio que mesmo ele não tendo sido capaz de enxergar esses targets e assessments, nós podemos ter uma idiea de quais seriam eles. Como na 5 setença onde diz "Vou comprar frequentemente e aproveito para um lanche nas lojinhas de conveniência que tem no térreo" nós podemos deduzir que, em minha opnião, o **target** seria *comprar* e o **assessment** seria *frequentemente* onde podesse deduzir que esta é uma sentença possitiva, apesar de eu não ser capaz de informar uma porcentagem.
+Conforme esta segunda analize, foi identificado que nem sempre é obtida uma opnião para cada sentença mas é apresentado o sentimento geral dela. Creio que mesmo ele não tendo sido capaz de enxergar esses targets e assessments, nós podemos ter uma idiea de quais seriam eles. Como na 5 setença onde diz "Vou comprar frequentemente e aproveito para um lanche nas lojinhas de conveniência que tem no térreo" nós podemos deduzir que, em minha opnião, o **target** seria *comprar* e o **assessment** seria *frequentemente* onde podesse deduzir que esta é uma sentença possitiva, apesar de eu não ser capaz de informar uma porcentagem, pois o informa que voltará a fazer compras no local.
+
+4.
+Sentenças analizadas | Sentimento da sentença/Opnião
+--------- | ------
+![image](https://github.com/user-attachments/assets/67075c80-df38-4c11-b240-3c033f6d548a) | ![image](https://github.com/user-attachments/assets/09b49cc7-ba3f-40ef-bb0c-ce614d6ced61)
+![image](https://github.com/user-attachments/assets/f9801567-f384-4be8-b06b-ca3a210315d1) | ![image](https://github.com/user-attachments/assets/d2c8b849-365b-413f-a077-f56ccb5d37b2)
+![image](https://github.com/user-attachments/assets/470416aa-db7f-4b7a-8722-e4b6bd36bf41) | ![image](https://github.com/user-attachments/assets/3620e511-f178-451a-94a6-9b1b030d3b43)
+
+Texto completo | Resultado final da Analize do documento
+--------- | ------
+![image](https://github.com/user-attachments/assets/e83b9735-2b86-485c-80f6-0f31fefe7182) | ![image](https://github.com/user-attachments/assets/e5babbab-8c12-4559-9c9a-b300022db9fd)
+
