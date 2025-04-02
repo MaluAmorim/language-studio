@@ -61,3 +61,8 @@ Sentenças analizadas | Sentimento da sentença/Opnião
 Texto completo | Resultado final da Analize do documento
 --------- | ------
 ![image](https://github.com/user-attachments/assets/6df28228-5967-4e0f-954d-8729c7cedbe7) | ![image](https://github.com/user-attachments/assets/f1d1e748-c627-4816-80d4-0685e7351a12)
+
+Apesar do observado nas demais analizes podemos ver que mesmo com suas falhas em identificar pontualmente algumas palavras chaves, ele é capaz não só de ideitificar assessments possitivos mas também negativos.
+
+## Conclusão
+Mesmo com suas impefeições, deixando claro que são bem pontuais não ocorrendo frequentemente, esse é um recurso muito bom e que eu me proporia a utiliza-lo pois o mesmo consegue gerar boa analizes.
