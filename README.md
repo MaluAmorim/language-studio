@@ -31,8 +31,8 @@ Sentenças analizadas | Sentimento da sentença
 ![image](https://github.com/user-attachments/assets/41b6162f-467e-48d6-b29e-0109bab7d1b9) | ![image](https://github.com/user-attachments/assets/ba6beabb-72ed-4d6f-8f66-a9697d71690f)
 ![image](https://github.com/user-attachments/assets/4076e0ad-5956-49bc-8ee6-3275d3e131fa) | ![image](https://github.com/user-attachments/assets/29649fd4-c112-486f-bcec-b839cf14326e)
 
-Texto completo | Resultado final da Analize
+Texto completo | Resultado final da Analize do documento
 --------- | ------
 ![image](https://github.com/user-attachments/assets/6d876b4d-1be7-4d37-8494-5d1af0fa95d2) | ![image](https://github.com/user-attachments/assets/a86fc213-0f09-48de-bdf5-c0e339636d30)
 
-
+Conforme esta segunda analize, foi identificado que nem sempre é obtida uma opnião para cada sentença mas é apresentado o sentimento geral dela. Creio que mesmo ele não tendo sido capaz de enxergar esses targets e assessments, nós podemos ter uma idiea de quais seriam eles. Como na 5 setença onde diz "Vou comprar frequentemente e aproveito para um lanche nas lojinhas de conveniência que tem no térreo" nós podemos deduzir que, em minha opnião, o **target** seria *comprar* e o **assessment** seria *frequentemente* onde podesse deduzir que esta é uma sentença possitiva, apesar de eu não ser capaz de informar uma porcentagem.
