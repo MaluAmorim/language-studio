@@ -1,6 +1,6 @@
 # language-studio
 
-Neste projeto são utilizadas 5 sentenças para analize no languege studio. Essas sentenças são analisadas para determinar o estado da pessoa, positivo ou negativo, referente ao que foi dito sobre a localidade visitada. São utilizadas palavras chaves para conseguir determinar o estado da pessoa naquela avaliação.
+Neste projeto são utilizadas 4 sentenças para analize no languege studio. Essas sentenças são analisadas para determinar o estado da pessoa, positivo ou negativo, referente ao que foi dito sobre a localidade visitada. São utilizadas palavras chaves para conseguir determinar o estado da pessoa naquela avaliação.
 
 ## Coleta das sentenças
 
@@ -8,11 +8,11 @@ Essas sentenças foram coletadas no google conforme imagem:
 
 ![image](https://github.com/user-attachments/assets/d2cd89a0-6552-4424-8b7b-410c818a99b5)
 
-Dentre todas as avaliações existentes, foram coletadas somente 5 que variam na quantidade de estrelas para termos perpectivas diferentes e poder avaliar diferentes graus de avaliações.
+Dentre todas as avaliações existentes, foram coletadas somente 4 que variam na quantidade de estrelas para termos perpectivas diferentes e poder avaliar diferentes graus de avaliações.
 
 ## Analize das sentenças no Language Studio
 
-Conforme arquivo input/sentencas-utilizadas.md, foram coletadas 5 sentenças. Todas as 5 foram analizadas conforme imagens abaixo:
+Conforme arquivo input/sentencas-utilizadas.md, foram coletadas 4 sentenças. Todas as 4 foram analizadas conforme imagens abaixo:
 
 1.
 ![image](https://github.com/user-attachments/assets/56329b24-516d-4df7-84f5-6b41403d0483)
@@ -36,7 +36,7 @@ Texto completo | Resultado final da Analize do documento
 
 Conforme esta segunda analize, foi identificado que nem sempre é obtida uma opnião para cada sentença mas é apresentado o sentimento geral dela. Creio que mesmo ele não tendo sido capaz de enxergar esses targets e assessments, nós podemos ter uma idiea de quais seriam eles. Como na 5 setença onde diz "Vou comprar frequentemente e aproveito para um lanche nas lojinhas de conveniência que tem no térreo" nós podemos deduzir que, em minha opnião, o **target** seria *comprar* e o **assessment** seria *frequentemente* onde podesse deduzir que esta é uma sentença possitiva, apesar de eu não ser capaz de informar uma porcentagem, pois o informa que voltará a fazer compras no local.
 
-4.
+3.
 Sentenças analizadas | Sentimento da sentença/Opnião
 --------- | ------
 ![image](https://github.com/user-attachments/assets/67075c80-df38-4c11-b240-3c033f6d548a) | ![image](https://github.com/user-attachments/assets/09b49cc7-ba3f-40ef-bb0c-ce614d6ced61)
@@ -47,3 +47,17 @@ Texto completo | Resultado final da Analize do documento
 --------- | ------
 ![image](https://github.com/user-attachments/assets/e83b9735-2b86-485c-80f6-0f31fefe7182) | ![image](https://github.com/user-attachments/assets/e5babbab-8c12-4559-9c9a-b300022db9fd)
 
+A casos intrigantes como nesta analize onde ocorre de todos os assessments da primeira sentença serem de 100% mas ele dizer que o sentimento da sentença é de 99% possitivo e 1% neutro. Na segunda ser 98% positivo na opnião oque da marge para que realmente tenha 2% neutro, porem em meu ponto de vista ha a chance de ser observado um ponto negativo que é a parte "na Internet, há coisas que vc encontra com valores melhores." pois informa que a loja possuí produtos com preços mais altos do que o encontrado em outros lugares, dando assim uma porcentagem negativa para esta sentença.
+
+Com isso podemos deduzir que o language studio ainda tem alguns pontos onde ele não consegue identificar certas tagets e assessments, mas mesmo com esses "furos" é uma ferramenta que consegue auxiliar e muito nas analizes das avaliações e comentários dos clientes.
+
+4.
+Sentenças analizadas | Sentimento da sentença/Opnião
+--------- | ------
+![image](https://github.com/user-attachments/assets/4da9dcb5-7e66-4190-b674-917bf8adef5d) | ![image](https://github.com/user-attachments/assets/8b9228c8-1049-4cff-affa-1b562fbb0a3b)
+![image](https://github.com/user-attachments/assets/6b7014de-af7f-4b48-ab86-944bb2d069a3) | ![image](https://github.com/user-attachments/assets/9ec15d36-da47-4d68-9e49-64ae85c3518c)
+![image](https://github.com/user-attachments/assets/cd5d351c-2c42-4f9e-894d-7bf4dc7a5daf) | ![image](https://github.com/user-attachments/assets/7f79e5b5-9fd6-4929-8ddb-ac9dff59179e)
+
+Texto completo | Resultado final da Analize do documento
+--------- | ------
+![image](https://github.com/user-attachments/assets/6df28228-5967-4e0f-954d-8729c7cedbe7) | ![image](https://github.com/user-attachments/assets/f1d1e748-c627-4816-80d4-0685e7351a12)
